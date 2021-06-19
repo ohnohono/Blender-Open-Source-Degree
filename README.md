@@ -1,7 +1,7 @@
 # Blender-Open-Source-Degree #
 An open source library to guide one through becoming an expert at blender. 
 This is best followed in order but could be taken in any order or skipped around for subjects you already understand.
-You will notice a list of other courses such as maths, and art. These are all optional but can really excel your understanding throughout the field of 3D. I would take one along with the normal courses. If you do this throughout you should finish all subjects around the same time coming together in a [logical way](https://media.giphy.com/media/0NwSQpGY6ipgOSt8LL/giphy.gif "logical way").
+You will notice a list of other courses such as maths, and art. These are all optional but can really excel your understanding throughout the field of 3D. I would take one along with the normal courses. If you do this throughout you should finish all subjects around the same time coming together in a [logical way](https://media.giphy.com/media/0NwSQpGY6ipgOSt8LL/giphy.gif "logical way"). Last thing to remember is that the Blender section of this all is a new field. There are no big colleges putting out resources for this stuff so its all youtube and other video sites so there will be a very large number of videos in each section. Because of this there will be a playlist for each section so you can keep track easier what you have already gone through.
 
 ## Main Courses ##
 These courses could be the only thing you take and you will have a very strong grasp on blender and its possibilities. It will take you through the steps of understanding and creating several different types of scenes and objects. You will make many renders and be very experienced by the end. BUT,   I highly suggest continuing down below the "Further Education" because that is where you will really start to understand why Blender is such an incredibly strong piece of software.
@@ -16,7 +16,7 @@ These courses could be the only thing you take and you will have a very strong g
          
 Courses | Duration | Effort | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
-Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
+[Understanding 3D](https://www.youtube.com/watch?v=ml1KMuqyOD8 "Understanding 3D")  | 3m | Content Cell  | None   | :white_check_mark:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
 
 
