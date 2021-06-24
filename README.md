@@ -5,7 +5,7 @@ You will notice a list of other courses such as maths, and art. These are all op
 
 ## Main Courses ##
 These courses could be the only thing you take and you will have a very strong grasp on blender and its possibilities. It will take you through the steps of understanding and creating several different types of scenes and objects. You will make many renders and be very experienced by the end. BUT,   I highly suggest continuing down below the "Further Education" because that is where you will really start to understand why Blender is such an incredibly strong piece of software.
-
+[a relative link](Reflect/Understanding%203D.md)
 ```diff
 + 3D Basics [WIP]
 ```
@@ -14,7 +14,7 @@ These courses could be the only thing you take and you will have a very strong g
            <p>By the end of this course you should understand the fundamentals of 3D in blender.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 [Understanding 3D](https://www.youtube.com/watch?v=ml1KMuqyOD8 "Understanding 3D")  | 3m | Content Cell  | None   | :white_check_mark:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -28,7 +28,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>This is the basics of blender. This should get you to a place where you can comfortably move around as well as understanding the basics of creating something.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -41,7 +41,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>An in depth look at how to create anything in blender out of basic primitive shapes. We will not concern ourselves with anything besides hard surface modeling as its known.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -54,7 +54,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>Deep dive into the world of translating 3D objects to 2D planes. Through this course you will understand the core reasons we do this as well as how to fix the many issues that come along with blender UV unwrapping.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -68,7 +68,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>Materials are what bring a model beyond a simple object. You will learn how materials can help shape the appearance of an object to bring it to life. We will touch on procedurally texturing here but very lightly.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -83,7 +83,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>This was originally in "Further Education" however I think with the way the world is headed towards more game engines and AR/VR this course is a must. Retopology is the act of creating low poly versions of your high quality meshes. The reasoning for this is to be able to bake the detail from the high poly version into a texture that you can use on the low poly in order to have fast scenes with high detail. You will learn how to do this fully in Blender and not rely on a 3rd part sofware like [Substance Painter](https://i.redd.it/ddivkxo86da61.jpg "Substance Painter")..</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -99,7 +99,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>Everything that has ever caught your eye as being a fake 3D object in a picture has been most likely due to bad lighting. Lighting can bring an object into the real world. We will find out how this is possible by simulating light bounces to accurately light our scene.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -113,7 +113,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>You have a full scene and it looks beautiful in your viewport. But that isnt the end of the road. Rendering is an art in itself. Tinkering render settings to find that balace of speed and quality.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -135,7 +135,7 @@ These do not have to be taken in order these are more of an "elective" group. Pi
            <p>By the end of this course you should understand the fundamentals of 3D in blender.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -149,7 +149,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>This is the basics of blender. This should get you to a place where you can comfortably move around as well as understanding the basics of creating something.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -162,7 +162,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>An in depth look at how to create anything in blender out of basic primitive shapes. We will not concern ourselves with anything besides hard surface modeling as its known.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -175,7 +175,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>Deep dive into the world of translating 3D objects to 2D planes. Through this course you will understand the core reasons we do this as well as how to fix the many issues that come along with blender UV unwrapping.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -189,7 +189,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>Really just a nerd out on how materials work. They are incredibly strong and ellusive. We will also touch some other render engines so not for the feint of heart.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -204,7 +204,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>Creating beautiful models and scenes can only take a render so far. Just as in real life its not always the scene that is interesting it is the director's vision of that scene. Here we will explore concepts of cinema in Blender with camera plugins and realistic camera movements/interactions.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -218,7 +218,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>I originally had this as a main course however I realize there are a large portion of people who will never touch the rigging and animation side of 3D. Because of this I have included it here however if you ever plan on taking 3D serious this is a must take. The art of rigging and the art of animation are hugely respected and this course only scratches the surface so please keep practicing.</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
@@ -232,7 +232,7 @@ Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mar
            <p>This is a growing list of courses that can offer an insight on how Blender is quicly coming to compete with apps like Houdini at procedural modeling and tool creation. Yes I know "Blender will never be Houdini" but if we have that mindset it won't. You should want to see this incredible free tool compete with the big guys[which it already does in so many fields].</p>
          </details>
          
-Courses | Duration | Effort | Prerequisites  | Req? 
+Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
