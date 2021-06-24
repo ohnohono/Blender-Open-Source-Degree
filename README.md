@@ -5,7 +5,7 @@ You will notice a list of other courses such as maths, and art. These are all op
 
 ## Main Courses ##
 These courses could be the only thing you take and you will have a very strong grasp on blender and its possibilities. It will take you through the steps of understanding and creating several different types of scenes and objects. You will make many renders and be very experienced by the end. BUT,   I highly suggest continuing down below the "Further Education" because that is where you will really start to understand why Blender is such an incredibly strong piece of software.
-[a relative link](Reflect/Understanding%203D.md)
+
 ```diff
 + 3D Basics [WIP]
 ```
@@ -16,7 +16,7 @@ These courses could be the only thing you take and you will have a very strong g
          
 Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
-[Understanding 3D](https://www.youtube.com/watch?v=ml1KMuqyOD8 "Understanding 3D")  | 3m | Content Cell  | None   | :white_check_mark:
+[Understanding 3D](https://www.youtube.com/watch?v=ml1KMuqyOD8 "Understanding 3D")  | 3m | [a relative link](Reflect/Understanding%203D.md)  | None   | :white_check_mark:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
 
 
