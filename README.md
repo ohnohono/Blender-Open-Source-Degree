@@ -16,7 +16,7 @@ These courses could be the only thing you take and you will have a very strong g
          
 Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
-[Understanding 3D](https://www.youtube.com/watch?v=ml1KMuqyOD8 "Understanding 3D")  | 3m | [Reflect](Reflect/Understanding%203D.md)  | None   | :white_check_mark:
+[Understanding 3D](https://www.youtube.com/watch?v=ml1KMuqyOD8 "Understanding 3D")  | 3m | [>>>](Reflect/Understanding%203D.md)  | None   | :white_check_mark:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
 
 
