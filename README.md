@@ -11,7 +11,7 @@ These courses could be the only thing you take and you will have a very strong g
 ```
 <details>
            <summary>What you will learn.</summary>
-           <p>By the end of this course you should understand the fundamentals of 3D in blender.</p>
+           <p>By the end of this section you should have an understanding of what 3d is.</p>
          </details>
          
 Courses | Duration | Reflect | Prerequisites  | Req? 
