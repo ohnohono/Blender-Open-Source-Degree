@@ -137,7 +137,7 @@ These do not have to be taken in order these are more of an "elective" group. Pi
          
 Courses | Duration | Reflect | Prerequisites  | Req? 
 | :--- | ---: | ---: | ---:  | :---: 
-Content Cell  | Content Cell | Content Cell  | Content Cell   | :x:
+[Advanced Particles \ Fluid Flow](https://www.youtube.com/watch?v=kkUC0GQ2SS4 "Advanced Particles")  | 30M | >>>  | Blender Basics   | :x:
 Content Cell  | Content Cell | Content Cell  | Content Cell   | :white_check_mark:
 
 
